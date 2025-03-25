@@ -12,6 +12,10 @@ bin-release/
 *.air
 *.ipa
 *.apk
+<<<<<<< HEAD
+=======
+*.bat
+>>>>>>> 9f80a39 (Update: 25-03-2025 20:02:49,39)
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
